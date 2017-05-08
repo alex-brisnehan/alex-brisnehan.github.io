@@ -4,7 +4,7 @@ title:  "An Adventure with Persona(Part 1)"
 date:   2017-05-04 14:19:34 +0000
 categories: 
 ---
-<img src="{{site.baseurl}}/_assets/persona-4-golden-listing-thumb-01-psvita-us-27jan15.png" alt="Persona 4">
+<img src="{{ site.baseurl }}/_assets/persona-4-golden-listing-thumb-01-psvita-us-27jan15.png" alt="Persona 4">
 
 
 Persona is a beloved franchise for a lot of people, but if you were to take a survey of the majority of gamers, most wouldn't know what it is. For a lot of people, Persona falls into that niche, but no so niche anymore, genre of JRPGs. Now that video games have become a bigger part of everyday life, people's interest in certain genres has expanded and therefore games like Persona have become more popular in places that they weren't necessarily developed for. I have never been to Japan, but I can play a game that models a persons everyday life in Japan. Well, maybe besides the demons.
