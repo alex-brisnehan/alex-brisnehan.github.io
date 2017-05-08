@@ -4,7 +4,7 @@ title:  "An Adventure with Persona(Part 1)"
 date:   2017-05-04 14:19:34 +0000
 categories: 
 ---
-<base href="{{site.baseurl}}"/>
+<base href="{{site.baseurl}}/"/>
 <img src="_assets/persona-4-golden-listing-thumb-01-psvita-us-27jan15.png" alt="Persona 4">
 
 
