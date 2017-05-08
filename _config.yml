@@ -10,7 +10,7 @@ title: HalfHourGamer
 email: abris33@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 
-baseurl: "/alex-brisnehan.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://halfhourgamer.com" # the base hostname & protocol for your site
 
 # Build settings
